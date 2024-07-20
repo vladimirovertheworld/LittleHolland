@@ -1,4 +1,5 @@
 # LittleHolland
+https://littlehollandaiml.blogspot.com/2024/07/littleholland-continuous-machine.html
 
 **LittleHolland** is an innovative project aimed at creating a continuous machine learning process for deep learning using the Mamba architecture. This project focuses on training large language models to produce electronic music, emulating the creativity and sophistication of an electronic music composer.
 
